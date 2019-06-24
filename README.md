@@ -7,4 +7,5 @@ Apple Pro Display XDR has 428 holes:
 ![result](https://raw.githubusercontent.com/urmysun/count-macpro-holes/master/image/xdr_result.jpg) 
 
 Mac Pro (2019 Fall) has 158 holes:
+
 ![result](https://raw.githubusercontent.com/urmysun/count-macpro-holes/master/image/mac_result.jpg)
